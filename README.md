@@ -8,7 +8,7 @@ This repository contains the implementation of the Deep Generative Multi-view Mo
 
 <img src="https://raw.githubusercontent.com/ChangdeDu/DGMM/develop/framework.png" width="60%">
 
-<img src="https://raw.githubusercontent.comChangdeDu/DGMM/develop/69results.png" width="60%">
+<img src="https://raw.githubusercontent.com/ChangdeDu/DGMM/develop/69results.png" width="60%">
 
 ## Dependencies
 

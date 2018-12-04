@@ -4,11 +4,11 @@
 This repository contains the implementation of the Deep Generative Multi-view Model (DGMM) described in
 [Sharing deep generative representation for perceived image reconstruction from human brain activity](https://arxiv.org/abs/1704.07575) and [Reconstructing Perceived Images from Human Brain Activities with Bayesian Deep Multi-view Learning]. 
 
-<img src="https://raw.githubusercontent.com/ChangdeDu/DGMM/develop/Pro.png" width="60%">
+<img src="https://raw.githubusercontent.com/ChangdeDu/DGMM/Pro.png" width="60%">
 
-<img src="https://raw.githubusercontent.com/ChangdeDu/DGMM/develop/framework.png" width="60%">
+<img src="https://raw.githubusercontent.com/ChangdeDu/DGMM/framework.png" width="60%">
 
-<img src="https://raw.githubusercontent.com/ChangdeDu/DGMM/develop/69results.png" width="60%">
+<img src="https://raw.githubusercontent.com/ChangdeDu/DGMM/69results.png" width="60%">
 
 ## Dependencies
 

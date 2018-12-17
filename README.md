@@ -2,7 +2,7 @@
 > - Authors: Changde Du, Changying Du, Lijie Huang, Huiguang He
 
 This repository contains the implementation of the Deep Generative Multi-view Model (DGMM) described in
-[Sharing deep generative representation for perceived image reconstruction from human brain activity](https://arxiv.org/abs/1704.07575) and [Reconstructing Perceived Images from Human Brain Activities with Bayesian Deep Multi-view Learning]. 
+[Sharing deep generative representation for perceived image reconstruction from human brain activity](https://arxiv.org/abs/1704.07575) and [Reconstructing Perceived Images from Human Brain Activities with Bayesian Deep Multi-view Learning](https://ieeexplore.ieee.org/document/8574054). 
 
 ![Graphical models](Pro.png)
 ![Illustration of the proposed DGMM framework](framework.png)
